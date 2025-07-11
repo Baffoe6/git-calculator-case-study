@@ -6,7 +6,8 @@ def add(a, b):
 
 
 def subtract(a, b):
-    pass  # To be implemented by Developer 2
+   return a - b 
+   pass  # To be implemented by Developer 2
 
 def multiply(a, b):
     pass  # To be implemented by Developer 3
