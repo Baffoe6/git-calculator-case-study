@@ -44,3 +44,5 @@ Each developer contributes one feature via a separate Git branch:
 ├── calculator.py        # Main calculator logic
 └── README.md            # Project documentation
 
+License by MIT
+
